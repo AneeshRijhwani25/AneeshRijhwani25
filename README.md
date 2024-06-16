@@ -1,28 +1,48 @@
-<h1 align="center">Hi 👋, I'm Aneesh Rijhwani</h1>
-<h3 align="center">A passionate FullStack Developer from India</h3>
+# Hi there, I'm Aneesh Rijhwani 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aneeshrijhwani25&label=Profile%20views&color=0e75b6&style=flat" alt="aneeshrijhwani25" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=AneeshRijhwani25&color=blueviolet&style=flat)
 
-- 🌱 I’m currently learning **Nextjs,MongoDb,FireBase**
+### Full Stack Developer | Pre-final Year Student at Vellore Institute of Technology
 
-- 👨‍💻 All of my projects are available at [portfolio-aneeshrijhwani.vercel.app](portfolio-aneeshrijhwani.vercel.app)
+🔭 I’m currently diving deep into Next.js, MongoDB, and Firebase.
 
-- 📫 How to reach me **aneeshrijhwani25@gmail.com**
+🌐 Check out my [portfolio](https://portfolio-aneeshrijhwani.vercel.app) for all my projects.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aneesh-rijhwani-b0a04b217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aneesh-rijhwani-b0a04b217" height="30" width="40" /></a>
-<a href="https://instagram.com/aneeshrijhwani" target="blank"><img align="center" src="https://github.com/AneeshRijhwani25/AneeshRijhwani25/blob/main/images/leetcode.svg" alt="aneeshrijhwani" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/aneesh25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aneesh25" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aneeshrijhwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aneeshrijhwani" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/aneesh_25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aneesh_25" height="30" width="40" /></a>
-</p>
+📫 How to reach me: aneeshrijhwani25@gmail.com
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/AneeshRijhwani25/Portfolio-next/blob/master/public/about/mongodb.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/aneesh-rijhwani-b0a04b217)
+[![Instagram](https://img.shields.io/badge/-Instagram-ff69b4?style=social&logo=instagram)](https://www.instagram.com/aneeshrijhwani)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aneeshrijhwani25&show_icons=true&locale=en&layout=compact" alt="aneeshrijhwani25" /></p>
+### My Coding Profiles:
+[![LeetCode](https://img.shields.io/badge/-LeetCode-000000?style=social&logo=leetcode)](https://leetcode.com/AneeshRijhwani/)
+[![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-339933?style=social&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/aneesh_25)
+[![CodeChef](https://img.shields.io/badge/-CodeChef-6F4E37?style=social&logo=codechef)](https://www.codechef.com/users/aneesh25)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aneeshrijhwani25&show_icons=true&locale=en" alt="aneeshrijhwani25" /></p>
+### Languages and Tools:
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### Notable Projects:
+- **[FIR-Connect](https://github.com/AneeshRijhwani25/FIR_Feedback_Frontend)**: Utilized Next.js, Node.js, Express.js, and Tailwind CSS to develop a creative solution aimed at optimizing FIR scheduling and simplifying feedback submission for citizens.
+- **[FlightAndSearchService](https://github.com/AneeshRijhwani25/FlightAndSearchService)**: RESTful API for flight and city data using Node.js, Express.js, and Sequelize ORM.
+- **[Auth_Service](https://github.com/AneeshRijhwani25/Auth_Service)**: Authentication service with Node.js, Express, SQL, JWT, and password encryption.
+- **[AirTicketBookingService](https://github.com/AneeshRijhwani25/AirTicketBookingService)**: Complete air ticket booking service backend.
+- **[ReminderService](https://github.com/AneeshRijhwani25/ReminderService)**: Email reminder service using Node.js, Express, Sequelize, and Nodemailer.
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aneeshrijhwani25&" alt="aneeshrijhwani25" /></p>
+
+Feel free to reach out or explore my repositories for more interesting projects!
